@@ -10,7 +10,7 @@ I also have a keen eye for design and aesthetics, and my extensive knowledge of 
 So, if you're looking for a young, fresh, and creative developer who can bring a unique perspective to your projects, look no further! Get in touch, and let's make some magic happen 🧙🏻‍♂️✨!
 
 
-### These are the tools I use on a daily basis_
+### 🛠️ These are the tools I use on a daily basis_
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue,sass,git,github,npm,vscode,notion,ps,ai,xd,figma,netlify,vite)](https://skillicons.dev)
 
 <!--
