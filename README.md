@@ -1,5 +1,5 @@
+![Banner](https://github.com/GiacomoFranco/GiacomoFranco/assets/97765706/54b8cfc9-032b-4040-8e1e-edaeac93db93)
 ## Hi there 👋
-
 <!--
 **GiacomoFranco/GiacomoFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
